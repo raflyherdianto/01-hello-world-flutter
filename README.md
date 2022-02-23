@@ -3,10 +3,10 @@
 
 Membuat aplikasi Hello World dengan Flutter
 
-Nama : Mochammad Rafly Herdianto
-NIM : 2031710008
-Kelas : MI-2C
-Prodi : D3 MI
+Nama : Mochammad Rafly Herdianto <br/>
+NIM : 2031710008 <br/>
+Kelas : MI-2C <br/>
+Prodi : D3 MI <br/>
 
 ## Hasil Praktikum
 
